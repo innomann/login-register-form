@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/innomann/login-register-form/issues"
   },
-  "homepage": "https://github.com/innomann/login-register-form#readme"
+  "homepage": "https://github.com/innomann/login-register-form#readme",
+  "dependencies": {
+    "express": "4.17.1"
+  }
 }
